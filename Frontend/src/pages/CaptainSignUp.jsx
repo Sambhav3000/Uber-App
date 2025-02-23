@@ -59,7 +59,7 @@ const CaptainSignUp = () => {
     <div className='p-7 flex flex-col h-screen justify-between'>
       <div>
         <img 
-        className=' m-10 -ml-5    w-auto h-15'src='https://s23.q4cdn.com/407969754/files/doc_multimedia/2024/5/1008364843/Uber_Logo_Black_RGB.jpg'/>
+        className=' m-10 -ml-5    w-auto h-20'src='https://brandlogos.net/wp-content/uploads/2021/12/uber-brandlogo.net_.png'/>
 
         <form onSubmit={(e)=>{submitHandler(e)}}>
 
