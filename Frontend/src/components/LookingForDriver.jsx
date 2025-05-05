@@ -3,7 +3,7 @@ import React from 'react'
 const LookingForDriver = (props) => {
   return (
     <div>
-      <h5  onClick={()=>{props.setConfirmRidePanel(false)}}
+      <h5  onClick={()=>{props.setVehicleFound(false)}}
         className='p-1 text-center w-[90%] absolute top-0'><i className=' text-3xl text-gray-500 ri-arrow-down-wide-line'/></h5>
         <h3 className='text-2xl font-semibold mb-5'>Looking for a Driver</h3>
 

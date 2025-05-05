@@ -148,7 +148,7 @@ const CaptainSignUp = () => {
           }}
           className='bg-[#eeeeee]  w-1/2 rounded px-4 py-2 border  text-lg '>
           <option value="" disabled  >Vehicle Type</option>
-          <option value="Motocycle">Motorcycle</option>
+          <option value="Motorcycle">Motorcycle</option>
           <option value="Car">Car</option>
           <option value="Auto">Auto</option>
         </select>
@@ -162,7 +162,7 @@ const CaptainSignUp = () => {
       </div>
 
       <div>
-        <p className='text-xs leading-tight'> 
+        <p className='text-[10px] mt-6 leading-tight '> 
           This site is protected by reCAPTCHA and the <span className='underline'>Google 
           Privacy Policy</span> and <span className='underline'>Terms of Service</span> apply.
         </p>
